@@ -1,7 +1,7 @@
 theme: jekyll-theme-architect
 title: Sabir Ribas
 description: 
-show_downloads: true
+show_downloads: false
 google_analytics:
 plugins:
   - jekyll-relative-links
