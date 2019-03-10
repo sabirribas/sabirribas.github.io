@@ -1,9 +1,8 @@
 theme: jekyll-theme-architect
-title: Architect theme                                                      
-description: Architect is a theme for GitHub Pages.                         
-show_downloads: true                                                        
+title: Sabir Ribas
+description: 
+show_downloads: true
 google_analytics:
-  
 plugins:
   - jekyll-relative-links
 relative_links:
