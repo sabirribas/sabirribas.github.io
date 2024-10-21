@@ -1,20 +1,5 @@
-theme: architect@v0.2.0
-title: Sabir Ribas
-description: 
-show_downloads: false
+title: Architect theme
+description: Architect is a theme for GitHub Pages.
+show_downloads: true
 google_analytics:
-plugins:
-  - jekyll-relative-links
-  - jekyll-remote-theme
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - CONTRIBUTING.md
-  - README.md
-  - LICENSE.md
-  - COPYING.md
-  - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
-  - ISSUE_TEMPLATE.md
-  - PULL_REQUEST_TEMPLATE.md
+theme: jekyll-theme-architect
